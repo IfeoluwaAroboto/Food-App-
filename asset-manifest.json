@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Food-App/static/css/main.c24aaf77.css",
+    "main.js": "/Food-App/static/js/main.09b5b598.js",
+    "static/media/ramen.png": "/Food-App/static/media/ramen.8003759ab4760aa91dda.png",
+    "static/media/stir.png": "/Food-App/static/media/stir.7f87f8b0df9706eb70d6.png",
+    "static/media/meat.png": "/Food-App/static/media/meat.0f4564f800dde11c2ba5.png",
+    "static/media/cooking.png": "/Food-App/static/media/cooking.1f61b4680d5b0ef05a58.png",
+    "static/media/berries.png": "/Food-App/static/media/berries.67d7ddface95b5ac05ea.png",
+    "static/media/burger.png": "/Food-App/static/media/burger.a57649b8134fdec9a7c8.png",
+    "static/media/Pasta.png": "/Food-App/static/media/Pasta.645a1c2f8e2cb5ab2526.png",
+    "static/media/Balls.png": "/Food-App/static/media/Balls.01dbc5d38b0a9e289f7f.png",
+    "static/media/banna.png": "/Food-App/static/media/banna.f4be4efc03cb943423dd.png",
+    "static/media/soup.png": "/Food-App/static/media/soup.c2739575fb2b8fda3300.png",
+    "static/media/Burg.png": "/Food-App/static/media/Burg.2bd857749a8e4f1dd000.png",
+    "static/media/ramen2.png": "/Food-App/static/media/ramen2.d9c85a812d196712c495.png",
+    "index.html": "/Food-App/index.html",
+    "main.c24aaf77.css.map": "/Food-App/static/css/main.c24aaf77.css.map",
+    "main.09b5b598.js.map": "/Food-App/static/js/main.09b5b598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24aaf77.css",
+    "static/js/main.09b5b598.js"
+  ]
+}
