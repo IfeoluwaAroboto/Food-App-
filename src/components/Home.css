@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto&display=swap');
 @media screen and (min-width: 699px) {
 .body{
- background-color: #00302E;
- 
+ background-color: #00302E; 
   font-family:Poppins;
 }
 .nav-toggle{
@@ -10,8 +9,6 @@
 }
 .Nav-Bar{
    background-color: #00302E;
-}
-.nav {
 }
 .logo{
   padding-left: 30px;
@@ -131,6 +128,9 @@ width: 500px;
  .app-store2 .Google{
   height:50px;
   width:180px;
+ }
+ .rows{
+  padding-left: 50px;
  }
 .footer{
   background-color: black;

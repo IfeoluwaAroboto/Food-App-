@@ -1,0 +1,38 @@
+.welcome{ padding-top: 70px;
+    display:flex;
+    justify-content: space-between;
+}
+.welcome h2{
+    padding-left:30px;
+}
+.welcome p{
+    color:black;
+    font-size: 15px;
+    padding-left:30px;
+
+}
+.welcome img{
+    padding-right: 30px;
+}
+.card-text{padding:15px;
+    font-size: 17px;
+    color: black;
+}
+.price{ padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.price span{ 
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+}
+.price a{
+    text-decoration: none;
+    color: #06E775;
+
+}
+.buy{ padding-top: 20px;
+    display: flex;
+    justify-content:space-evenly;
+}

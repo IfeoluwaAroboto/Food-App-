@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto&display=swap');
+@media screen and (min-width: 767px) {
+    .body{
+
+      font-family:Poppins;
+    }
+.cooking{
+width: 500px;
+opacity: 0.7;
+}
+form{
+    color:#00302E;
+}
+.btn{ color:white;
+    font-weight:500;
+    background-color: #00302E;
+}
+.under{ justify-content: space-around;
+    display:flex;
+}
+.under p{
+    color:#00302E;
+    font-size: 15px;
+}}
+@media screen and (max-width: 767px) {
+    .body{
+
+        font-family:Poppins;
+      }
+  .cooking{
+ display: none;
+  }
+  form{
+      color:#00302E;
+  }
+  .btn{ color:white;
+      font-weight:500;
+      background-color: #00302E;
+     
+  }
+  .btns{
+    width:600px;
+  }
+  .under{ justify-content: space-around;
+      display:flex;
+  }
+  .under p{
+      color:#00302E;
+      font-size: 15px;
+  }
+   .link{ color:#00302E;
+text-decoration: none;
+  }
+}
